@@ -1,0 +1,29 @@
+# Web automation and browser driver
+selenium==4.19.0
+webdriver-manager==4.0.1
+
+# Data handling
+pandas==2.2.2
+
+# HTTP requests
+requests==2.32.3
+
+# PDF-to-Markdown conversion (Marker)
+marker-convert==0.3.0
+
+# Qdrant vector search
+qdrant-client==1.7.1
+
+# Embeddings (LangChain + HuggingFace)
+langchain-huggingface==0.0.23
+transformers==4.41.2
+sentence-transformers==2.7.0
+
+# Gradio UI
+gradio==4.28.3
+
+# Environment variable management (optional, for secrets)
+python-dotenv==1.0.1
+
+# (Optional) For type hints and linting
+typing-extensions==4.12.0
