@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE/project files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+*.env
+
+# Log files
+*.log
+
+# Data and output
+downloads/
+processed_pdfs/
+models/
+data/
+*.csv
+*.pdf
+
+# Selenium drivers
+chromedriver.exe
+geckodriver.exe
+
+# Gradio cache
+gradio_cached_examples/
